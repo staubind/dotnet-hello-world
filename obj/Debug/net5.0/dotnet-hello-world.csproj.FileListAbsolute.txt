@@ -1,0 +1,15 @@
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.deps.json
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.json
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.dev.json
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.dll
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.pdb
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.AssemblyReference.cache
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfoInputs.cache
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfo.cs
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.CoreCompileInputs.cache
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.dll
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.pdb
+/Users/dan/Documents/Prime/Tier3/interludeWeek/csharpIntro/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.genruntimeconfig.cache
